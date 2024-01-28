@@ -89,6 +89,7 @@ nav li{
     align-items: center;
     border-top: .0938rem solid #daddd8;
     padding: 3.125rem 1.5625rem;
+    width: 100%;
 }
 
 .boton{
@@ -99,7 +100,7 @@ nav li{
     text-align: center;
     font-size: 1rem;
     margin: .25rem .125rem;
-    /*border-radius: .1875rem;*/
+    border-radius: .1875rem;
 }
 
 .boton:hover{
